@@ -10,3 +10,7 @@ This is designed to be easily expanded to include features like:
 If you add functionality to the sketch and want to merge it back into this project,
 feel free to submit a PR or send me your code for review.  You're also welcome to fork
 this repo to use as you see fit.
+
+*****  NOTE *****
+I've added a MicroPython version of the script to the repo.  This version uses a 128x32 oled
+in place of the 128x64.
